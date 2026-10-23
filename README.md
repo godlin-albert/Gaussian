@@ -18,8 +18,10 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
  
 
 ## Program:
-<img width="1535" height="843" alt="{ACC4B9AC-81EA-46CF-9189-966B55D5437F}" src="https://github.com/user-attachments/assets/04eb577d-db68-4107-b880-a267b83579ae" />
-<img width="1447" height="464" alt="{1871AEBB-1598-472C-9A81-C01F3941101E}" src="https://github.com/user-attachments/assets/2621d32b-145b-4db3-9da3-c373c84a6c31" />
+<img width="1525" height="842" alt="{7A0E98DB-4168-48D1-BB0B-35CEAECF5EB5}" src="https://github.com/user-attachments/assets/3c5ff98e-34b4-45c5-ad07-8a7f59bdfaf1" />
+<img width="1442" height="602" alt="{360793E7-7CD5-4748-B249-95C40A1D2A56}" src="https://github.com/user-attachments/assets/8ddc29d6-0bab-495e-b352-01ec5119244a" />
+
+
 
 
 
